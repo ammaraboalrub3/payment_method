@@ -16,13 +16,14 @@ A Flutter demo app that shows how to integrate multiple payment gateways (Stripe
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd55f49d-868f-4c21-b719-f9c2436899db" width="30%"/>
-<img src="https://github.com/user-attachments/assets/aa42141b-a331-4ad2-8c63-e8608d6b6145"width="30%" />
-  <img  src="https://github.com/user-attachments/assets/843a678e-446a-4f1a-92e2-6674bc3e67da"width="30%" />
-
+  <img src="https://github.com/user-attachments/assets/8a474b8f-73d5-45cd-b222-cf100146938f" width="30%" alt="Payment App Screenshot 1"/>
+  <img src="https://github.com/user-attachments/assets/a657d6f7-5b7c-45cd-a553-74043ddfac58" width="30%" alt="Payment App Screenshot 2"/>
+  <img src="https://github.com/user-attachments/assets/3031b676-11c9-42a4-9723-555817706eda" width="30%" alt="Payment App Screenshot 3"/>
+  <img src="https://github.com/user-attachments/assets/ee0c2289-3ad6-4f12-8647-ccf1ce86f81a" width="30%" alt="Payment App Screenshot 4"/>
+  <img src="https://github.com/user-attachments/assets/c3878870-4cdb-4d53-ad1b-ef29dd1a1ac9" width="30%" alt="Payment App Screenshot 5"/>
+  <img src="https://github.com/user-attachments/assets/ad6f9141-f98d-40dc-afc0-bd491c526a60" width="30%" alt="Payment App Screenshot 6"/>
+  <img src="https://github.com/user-attachments/assets/cebe3475-2ac7-4485-8696-eb0ee3375a21" width="30%" alt="Payment App Screenshot 7"/>
 </p>
-
-
 
 
 ## 🚀 Getting Started
@@ -30,6 +31,7 @@ A Flutter demo app that shows how to integrate multiple payment gateways (Stripe
 ```bash
 flutter pub get
 flutter run
+
 
 
 
