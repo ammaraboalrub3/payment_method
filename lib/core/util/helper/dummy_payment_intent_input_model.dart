@@ -2,7 +2,7 @@ import 'package:payment/features/checkout/data/models/payment_intent_input_model
 
 PaymentIntentInputModel getDummyPayment() {
   return PaymentIntentInputModel(
-    amount: 100,
+    amount: 52.00,
     currency: "usd",
     customerId: "cus_TBIkH6bnNkrSOo",
   );

@@ -39,7 +39,7 @@ class CustomContainerCard extends StatelessWidget {
             CustomDivider(),
             SizedBox(height: 24),
 
-            TotalPrice(text: "Total", price: r"$50.97"),
+            TotalPrice(text: "Total", price: r"$52.00"),
             SizedBox(height: 30),
             CustomMasterCard(),
           ],

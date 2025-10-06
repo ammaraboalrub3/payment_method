@@ -25,7 +25,7 @@ class CustomMasterCard extends StatelessWidget {
               Text("Credit Card", style: AppStyles.regular18),
               Opacity(
                 opacity: 0.8,
-                child: Text("Mastercard **78", style: AppStyles.regular18),
+                child: Text("Mastercard **42", style: AppStyles.regular18),
               ),
             ],
           ),

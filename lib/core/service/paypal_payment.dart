@@ -40,7 +40,7 @@ void paypalPayment(BuildContext context) {
         },
         onError: (error) {
           log("onError: $error");
-          snackBar(context, error, Colors.red);
+          snackBar(context, error.toString(), Colors.red);
           Navigator.pop(context);
           Navigator.pop(context);
         },

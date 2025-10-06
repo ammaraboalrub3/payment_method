@@ -21,13 +21,13 @@ class MyCartViewBody extends StatelessWidget {
           SizedBox(height: 10),
           Expanded(child: Image.asset(Assets.imagesCart)),
           SizedBox(height: 15),
-          OrderInfoItem(text: "Order Subtotal", price: r"$42.97"),
+          OrderInfoItem(text: "Order Subtotal", price: r"$42.00"),
           OrderInfoItem(text: "Discount", price: r"$0"),
-          OrderInfoItem(text: "Shipping", price: r"$8"),
+          OrderInfoItem(text: "Shipping", price: r"$10"),
           SizedBox(height: 17),
           CustomDivider(),
           SizedBox(height: 15),
-          TotalPrice(text: "Total", price: r"$50.97"),
+          TotalPrice(text: "Total", price: r"$52.00"),
           SizedBox(height: 15),
           CustomButton(
             onTap: () {
